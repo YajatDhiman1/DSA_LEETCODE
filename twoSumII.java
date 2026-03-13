@@ -9,7 +9,7 @@ class Solution {
                 right--;
             }else if(sum == target){
                arr[0]=left+1;
-               arr[1]=right+1;
+               arr[1]=right+1; 
                break; 
             }else{
                 left++;

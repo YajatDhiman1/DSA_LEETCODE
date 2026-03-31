@@ -1,4 +1,5 @@
-/*
+package GFG_Ques;
+import java.util.*;
 class Node {
     int data;
     Node next;
@@ -8,8 +9,7 @@ class Node {
         data = d;
         next = null;
     }
-}*/
-import java.util.*;
+}
 class SortLL {
     public Node segregate(Node head) {
         Node hh=head;

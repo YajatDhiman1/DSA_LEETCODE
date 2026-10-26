@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/YajatDhiman1/DSA_LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0867-transpose-matrix](https://github.com/YajatDhiman1/DSA_LEETCODE/tree/master/0867-transpose-matrix) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/YajatDhiman1/DSA_LEETCODE/tree/master/2251-number-of-flowers-in-full-bloom) |
 ## Hash Table
 |  |
@@ -39,4 +40,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/YajatDhiman1/DSA_LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0867-transpose-matrix](https://github.com/YajatDhiman1/DSA_LEETCODE/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/YajatDhiman1/DSA_LEETCODE/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->

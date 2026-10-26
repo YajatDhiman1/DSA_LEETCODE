@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/YajatDhiman1/DSA_LEETCODE/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/YajatDhiman1/DSA_LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/YajatDhiman1/DSA_LEETCODE/tree/master/0867-transpose-matrix) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/YajatDhiman1/DSA_LEETCODE/tree/master/2251-number-of-flowers-in-full-bloom) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/YajatDhiman1/DSA_LEETCODE/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/YajatDhiman1/DSA_LEETCODE/tree/master/0050-powx-n) |
 ## Recursion
 |  |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/YajatDhiman1/DSA_LEETCODE/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/YajatDhiman1/DSA_LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/YajatDhiman1/DSA_LEETCODE/tree/master/0867-transpose-matrix) |
 ## Simulation

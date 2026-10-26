@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/YajatDhiman1/DSA_LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/YajatDhiman1/DSA_LEETCODE/tree/master/2251-number-of-flowers-in-full-bloom) |
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/YajatDhiman1/DSA_LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/YajatDhiman1/DSA_LEETCODE/tree/master/2251-number-of-flowers-in-full-bloom) |
 ## Binary Search
 |  |
@@ -33,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/YajatDhiman1/DSA_LEETCODE/tree/master/0050-powx-n) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/YajatDhiman1/DSA_LEETCODE/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->

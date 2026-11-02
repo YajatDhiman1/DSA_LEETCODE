@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/YajatDhiman1/DSA_LEETCODE/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/YajatDhiman1/DSA_LEETCODE/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/YajatDhiman1/DSA_LEETCODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/YajatDhiman1/DSA_LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/YajatDhiman1/DSA_LEETCODE/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/YajatDhiman1/DSA_LEETCODE/tree/master/0867-transpose-matrix) |
@@ -44,12 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/YajatDhiman1/DSA_LEETCODE/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/YajatDhiman1/DSA_LEETCODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/YajatDhiman1/DSA_LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/YajatDhiman1/DSA_LEETCODE/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/YajatDhiman1/DSA_LEETCODE/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/YajatDhiman1/DSA_LEETCODE/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/YajatDhiman1/DSA_LEETCODE/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/YajatDhiman1/DSA_LEETCODE/tree/master/0867-transpose-matrix) |
 ## Dynamic Programming
